@@ -26,5 +26,3 @@ Human–Computer Interaction · Mixed Reality · Social Robotics · UX Research 
 🏆 Top 5 Endeavour Exhibition Finalist — University of Melbourne  
 📄 IEEE Published Author  
 💻 5+ Years of Frontend Development Experience  
-
-→ Explore my projects at **https://sekarshada.github.io**
